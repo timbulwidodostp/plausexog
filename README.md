@@ -1,6 +1,8 @@
 # plausexog
 Implementation of IV estimation under flexible (Conley et al's plausibly exogenous bounds) estimation conditions Use plausexog With STATA 18
 
+https://www.youtube.com/watch?v=zI9pOfx6Eic
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
